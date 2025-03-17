@@ -1,6 +1,9 @@
 # Description
 A web app to fetch and display real-time weather data for any location.
 
+## Live <a href="https://peterbredell.github.io/WeatherWebsite/">Demo</a>:
+Please note that the website will currently have no functionality because the API can't be kept on a public github. (Perhaps I will host it on a more private service later on)
+
 ## How to Run
 - **Clone the repo**: `git clone https://github.com/PeterBredell/WeatherWebsite`
 - **Open locally**: Drag `index.html` into a browser or use a local server (e.g., `live-server` in VS Code).
